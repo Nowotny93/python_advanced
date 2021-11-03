@@ -1,0 +1,2 @@
+{"username": "simo", "password": "123", "first_name": "s", "last_name": "m", "products": [2], "is_admin": false}
+{"username": "ina", "password": "321", "first_name": "i", "last_name": "s", "products": [1, 2, 3, 2], "is_admin": false}
